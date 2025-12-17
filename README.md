@@ -1,6 +1,4 @@
-# Cybersecurity + Blockchain + Trading Learning App (Uganda Edition)
-
-An interactive Android application designed to guide learners through a 12-month comprehensive roadmap for mastering Cybersecurity, Blockchain, and Trading. This app was built to support the "Uganda Edition" roadmap (updated for Nov 2025).
+# Learning App
 
 ## 📱 Features
 
@@ -41,3 +39,4 @@ An interactive Android application designed to guide learners through a 12-month
 ## 🤝 Contribution
 
 Feel free to fork this repository and submit pull requests to add new modules, quizzes, or features!
+
